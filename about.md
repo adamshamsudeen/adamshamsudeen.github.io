@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write code, I take initiative, I travel.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'll rewatch a good movie than spending my time on a hyped new release.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adamshamsudeen@gmail.com](mailto:adamshamsudeen@gmail.com)
