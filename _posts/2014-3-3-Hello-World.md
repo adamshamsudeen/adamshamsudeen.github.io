@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: Welcome
 ---
 
 Yaay! This is my first blog post on the internet. I was thinking about wrting blogs for a very long time.  
