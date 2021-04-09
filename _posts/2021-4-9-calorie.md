@@ -3,7 +3,7 @@ layout: post
 title: Calorie
 ---
 
-Calculating calorie
+Tap advanced and select your Physical activity level to get the right values.
 
 <div class="omni-calculator" data-calculator="health/bmr-harris-benedict-equation" data-width="300" data-config='{}' data-currency="INR" data-show-row-controls="false" data-version="3" data-t="1617958849435">
   <div class="omni-calculator-header">Harris-Benedict Calculator (Total Daily Energy Expenditure)</div>
